@@ -1,6 +1,6 @@
-# sentiment-analysis-research
+# sentiment-analysis-using-deep-learning
 
-# Comparative Evaluation of Transformer-Based Models for Sentiment Analysis
+# Optimizing Sentiment Classification with Next-Gen AI: Enhancing Accuracy and Interpretability
 
 ## Project Overview
 
